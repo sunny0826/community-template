@@ -31,7 +31,7 @@
 - [LICENSE](./LICENSE) `Apache 2.0`
 - `NOTICE`
 - [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
-- `CONTRIBUTING.md`
+- [CONTRIBUTING.md](https://github.com/nayafia/contributing-template)
 - [Contributors.md](https://github.com/all-contributors/all-contributors#contributors-)
 - `CHANGELOG.md`
 - [SECUTITY.md](./SECURITY.md)
