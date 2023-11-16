@@ -35,6 +35,6 @@
 - [Contributors.md](https://github.com/all-contributors/all-contributors#contributors-)
 - `CHANGELOG.md`
 - [SECUTITY.md](./SECURITY.md)
-- `.github/ISSUE_TEMPLATE`
-- `.github/PULL_REQUEST_TEMPLATE`
+- [.github/ISSUE_TEMPLATE](https://github.com/devspace/awesome-github-templates#bomb-templates-for-issues)
+- [.github/PULL_REQUEST_TEMPLATE](https://github.com/devspace/awesome-github-templates#rocket-templates-for-pull-requests)
 - `GitHub Discussion`
